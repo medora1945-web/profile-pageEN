@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Explanation Regarding Memberships and Account Activity</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Tahoma, Arial, sans-serif;
+      background: #f4f6f8;
+      color: #20252b;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 24px;
+      line-height: 2;
+    }
+
+    .card {
+      width: 100%;
+      max-width: 760px;
+      background: #fff;
+      border: 1px solid #e3e7eb;
+      border-radius: 18px;
+      padding: 32px;
+      box-shadow: 0 10px 35px rgba(0, 0, 0, 0.07);
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 5px 12px;
+      border-radius: 999px;
+      background: #eef2f6;
+      color: #53606d;
+      font-size: 13px;
+      margin-bottom: 12px;
+    }
+
+    h1 {
+      margin: 0 0 20px;
+      font-size: 24px;
+      line-height: 1.6;
+    }
+
+    p {
+      margin: 0;
+      font-size: 16px;
+      color: #39424c;
+    }
+
+    .line {
+      display: block;
+      margin-bottom: 13px;
+    }
+
+    footer {
+      margin-top: 24px;
+      padding-top: 16px;
+      border-top: 1px solid #edf0f2;
+      color: #7a848e;
+      font-size: 12px;
+    }
+
+    .signature {
+      margin-top: 14px;
+      color: #39424c;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .name {
+      margin-top: 5px;
+      font-size: 18px;
+      letter-spacing: 0.2px;
+      font-weight: bold;
+    }
+
+    .account {
+      margin-top: 1px;
+      direction: ltr;
+      text-align: left;
+    }
+
+    .username {
+      color: #7f8992;
+      font-size: 12px;
+    }
+
+    .owner {
+      color: #a5adb4;
+      margin-left: 6px;
+      font-size: 10px;
+      font-weight: normal;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 12px;
+      }
+
+      .card {
+        padding: 22px 18px;
+        border-radius: 14px;
+      }
+
+      h1 {
+        font-size: 21px;
+      }
+
+      p {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <main class="card">
+
+    <span class="badge">NOTICE</span>
+
+    <h1>
+      Explanation Regarding Memberships and Account Activity
+    </h1>
+
+    <p>
+
+      <span class="line">
+        I have no connection, affiliation, or collaboration with any of the channels or groups in which my account is a member.
+      </span>
+
+      <span class="line">
+        Membership in some of these spaces was solely for the purpose of accessing educational materials, study resources, and other content required for personal use.
+      </span>
+
+      <span class="line">
+        Some memberships were also the result of using bots that require users to join certain channels in order to access files or other content.
+      </span>
+
+      <span class="line">
+        These memberships were solely intended to provide access to the required content. After obtaining the content, I left the relevant channels whenever further membership was no longer necessary.
+      </span>
+
+      <span class="line">
+        Any content published in these channels or groups does not represent my personal views, positions, opinions, or activities.
+      </span>
+
+      <span class="line">
+        The presence of my account in a channel or group, by itself, does not constitute participation in, affiliation with, collaboration with, or endorsement of that channel or group's activities or content.
+      </span>
+
+      <span class="line">
+        This statement is provided solely to prevent any misunderstanding regarding the nature of these memberships and their relationship to my personal activities.
+      </span>
+
+    </p>
+
+    <footer>
+
+      This page has been created for informational purposes only.
+
+      <div class="signature">
+
+        Respectfully,
+
+        <div class="name">
+          Matin
+        </div>
+
+        <div class="account">
+          <span class="username">@Medoralll</span>
+          <span class="owner">· Account Owner</span>
+        </div>
+
+      </div>
+
+    </footer>
+
+  </main>
+
+</body>
+</html>
